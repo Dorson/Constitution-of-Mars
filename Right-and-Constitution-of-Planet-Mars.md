@@ -122,7 +122,7 @@ The state fund can invest tax income into other social funds that provide social
  **3. Separation of power of the state.**
  The state selects to divide the power of itself between : the citizens, elected politicians,
  the administrative employees, the legal administration, the police, the army, and tax collectors,
- the social services, the regional administration, the economic safety funds, the operational saving
+ the social service funds, the regional administration, the economic safety funds, the operational saving
  funds for the different parts of the state.
  
  **4. Restriction of crime and violence.**
