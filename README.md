@@ -1,4 +1,4 @@
-# The Universal Rights and the Constitution of Planet Mars.
+# ☆☆☆ The Constitution of Planet Mars ☆☆☆
 
 The legal principles of our brave civilization are created as a logical abstraction from this declaration of basic rights on Planet Mars. Future generations may change and create better versions of this constitution, when they can collect the majority agreement of 75%, from all regional residents. Different versions of this Mars constitution may exist in different geographic regions of our civilization.
 
