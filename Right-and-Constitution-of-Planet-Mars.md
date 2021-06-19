@@ -1,4 +1,4 @@
-# The Universal Rights and the Constitution of Planet Mars.
+# ☆☆☆ The Constitution of Planet Mars ☆☆☆
 
 The legal principles of our brave civilization are created as a
 logical abstraction from this declaration of basic rights on Planet Mars.
