@@ -102,7 +102,7 @@ The individuals of the Mars civilization can have the legal right for the expres
 
 **15. Economic Freedom and Neutrality of Competitive Capitalism.**
  Free and unrestricted economic activity is allowed to all individuals and legal organisations.
- As long as their econommic activity is not hurting other individuals, legal organisations, the environment, public goods, or the democracy itself. Restrictions and punishments may apply on hurtful economic activity, where punishments can repair the damage.
+ As long as their econommic activity is not hurting other individuals, legal organisations, the environment, public goods, or the democracy itself. Restrictions and punishments may apply on hurtful economic activity, where punishments can repair or prevent the damage.
  
 Monopolies may be broken up into parts that allow other competitors to use the services of the monopoly at the same cost to all competitors. Public social funds are excluded from neutrality restrictions when it does increase their efficiency and reduces the price of service for all user groups.
 
