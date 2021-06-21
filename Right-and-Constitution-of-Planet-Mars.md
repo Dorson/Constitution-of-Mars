@@ -106,6 +106,14 @@ The individuals of the Mars civilization can have the legal right for the expres
  
 Monopolies may be broken up into parts that allow other competitors to use the services of the monopoly at the same cost to all competitors. Public social funds are excluded from neutrality restrictions when it does increase their efficiency and reduces the price of service for all user groups.
 
+**15. Fair Judgement and social punishment.**
+All individuals and legal organisations have the right for a fair trial in 3 independent courts,
+or the public oppinion vote, after at least 3 independent judgements can not agree on the guilt level, the punishment or damage repair methods.
+ 
+Punishment for crime correction and prevention is decided by the best available method.
+The methods of punishment and damage correction are connected to the amount of damage and
+the most effective method of further crime prevention / rehabilitation of the criminal.
+
 # The Universal Obligations
 
  **1. Protection of the personal rights and the democracy.** The state and the Mars Civilization
