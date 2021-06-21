@@ -100,6 +100,11 @@ The Mars civilization does not create money. The citizens create OR accept their
 **14. Freedom of religion or public opinion.**
 The individuals of the Mars civilization can have the legal right for the expression of their personal opinion , and or religion , as long as their public practice, communication OR public opinion dos not create direct or indirect crimes, permanent restriction of legal rights, or the direct intent of substantial harm, OR cause of violence that harm the individual, legal organization or the stability of the democracy itself.
 
+**15. Economic Freedom and Neutrality of Competitive Capitalism.**
+ Free and unrestricted economic activity is allowed to all individuals and legal organisations.
+ As long as their econommic activity is not hurting other individuals, legal organisations, the environment, public goods, or the democracy itself. Restrictions and punishments may apply on hurtful economic activity, where punishments can repair the damage.
+ 
+Monopolies may be broken up into parts that allow other competitors to use the services of the monopoly at the same cost to all competitors. Public social funds are excluded from neutrality restrictions when it does increase their efficiency and reduces the price of service for all user groups.
 
 # The Universal Obligations
 
