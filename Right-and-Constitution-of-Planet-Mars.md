@@ -58,8 +58,7 @@ no crime, violence or harm against other individuals or the democracy itself.
 
 
 **8. The right of free movement.**
-The individuals and legal organizations have the right to move without restriction as long as their movement
-creates no harm, violence or the restriction of rights to other individuals, the legal organizations, or the democracy itself.
+The individuals and legal organizations have the right to move without restriction as long as their movement creates no harm, violence or the restriction of rights to other individuals, the legal organizations, or the democracy itself.
 
 
 **9. The right of free education and basic economic assistance.**
@@ -113,6 +112,14 @@ or the public oppinion vote, after at least 3 independent judgements can not agr
 Punishment for crime correction and prevention is decided by the best available method.
 The methods of punishment and damage correction are connected to the amount of damage and
 the most effective method of further crime prevention / rehabilitation of the criminal.
+
+**16. Forgiveness and law reforms.**
+Law can be wrong. Low can be bad. The future generations can create better law that fits their situation and reality. The laws of the Mars civilization have automatic expiration dates of 50 years for long term law reforms. 25 years for medium term laws. 10 years for short term laws. The expiration of the law can be extended at the end of the expiration date by a vote of the legislative congress of elected officials.
+
+**18. High Quality Government.**
+ All government officals must pass a test of their professional and personal skills that are required for their job. All elected officials must pass a test of selected skills, before they can be elected. The test results should be public before the voting period. The test can be repeated once in 200 days.
+
+
 
 # The Universal Obligations
 
