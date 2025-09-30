@@ -1,4 +1,4 @@
-☆☆☆ The Revised Constitution of Planet Mars ☆☆☆
+☆☆☆ The Constitution of Planet Mars ☆☆☆
 
 The legal principles of our civilization are created as a logical abstraction from this declaration of rights and obligations on Planet Mars. This Constitution establishes a government of the people, by the people, and for the people, ensuring liberty, justice, and a high standard of living in our new world.
 
