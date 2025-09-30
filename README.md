@@ -1,3 +1,7 @@
+<img width="1024" height="1024" alt="mars-constitution-discussions" src="https://github.com/user-attachments/assets/e5b3d3c8-5f05-4edb-a9db-45829f35585c" />
+
+
+
 ☆☆☆ The Constitution of Planet Mars ☆☆☆
 
 The legal principles of our civilization are created as a logical abstraction from this declaration of rights and obligations on Planet Mars. This Constitution establishes a government of the people, by the people, and for the people, ensuring liberty, justice, and a high standard of living in our new world.
