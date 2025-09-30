@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="mars-constitution-discussions" src="https://github.com/user-attachments/assets/e5b3d3c8-5f05-4edb-a9db-45829f35585c" />
+<img width="95%" alt="mars-constitution-discussions" src="https://github.com/user-attachments/assets/e5b3d3c8-5f05-4edb-a9db-45829f35585c" />
 
 
 
