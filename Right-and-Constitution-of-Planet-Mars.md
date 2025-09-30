@@ -1,153 +1,115 @@
-# ☆☆☆ The Constitution of Planet Mars ☆☆☆
+☆☆☆ The Revised Constitution of Planet Mars ☆☆☆
 
-The legal principles of our brave civilization are created as a
-logical abstraction from this declaration of basic rights on Planet Mars.
-Future generations may change and create better versions of this constitution,
-when they can collect the majority agreement of 75%, from all regional residents.
-Different versions of this Mars constitution may exist in different geographic regions of our civilization.
+The legal principles of our civilization are created as a logical abstraction from this declaration of rights and obligations on Planet Mars. This Constitution establishes a government of the people, by the people, and for the people, ensuring liberty, justice, and a high standard of living in our new world.
 
-All individuals can have legal rights and obligations as long as the state can recognize them
-as living individuals with an intellect or basic intelligence that does require the state to
-assign legal rights or the legal identity. Individuals are above the legal organizations in
-the order of protection of their rights. Different animals, humans, aliens, robots, AI
-and similar types of individuals can have different rights and obligations.
+Future generations may amend this constitution with the consent of a 75% majority of all voting citizens. Different versions may be adapted for different regions, provided they do not conflict with the universal rights and obligations herein.
 
+Definition of an Individual: All human beings born within the Mars Civilization are recognized as individuals with full legal rights. Conscious robots, non-physical beings, Artificial Intelligences, and extraterrestrial species may also be granted specific rights, obligations, and the potential for Martian Citizenship. The legislative process that defines the minimum standards of sapience and autonomy required for full legal recognition must be ratified by a universal public referendum. The term "individual" in this document refers to any entity granted such legal recognition.
 
-# The Universal Rights within the physical space of the Mars Civilization.
+Definition of Harm: For the purposes of this Constitution, "harm" is narrowly defined as direct and demonstrable physical violence against an individual, theft, fraud, coercion, or the destruction of another's property. Actions or speech that are merely offensive, unpopular, or cause emotional distress do not constitute "harm" in the legal sense required to limit a fundamental right.
 
+Part I: The Universal Rights
 
-**1. Neutrality of the government.**
- The government selects to treat all citizens, residents or visitors with equality, as
- long as the individual or the legal organization is free from the crimes or the direct intent
- of harm, cause violence that harm the individual, legal organization or the democracy itself.
- 
-**2. Citizens, Residents or Visitors** can have different rights, obligations or benefits.
+ Article 1. Neutrality of the Government.
+The government shall treat all citizens, residents, and visitors with equality, regardless of origin, belief, or species. This neutrality is only forfeit when an individual or organization engages in legally defined acts of harm or presents a direct threat to the democratic state.
 
+ Article 2. Tiers of Association.
+Individuals may be classified as Citizens, Residents, or Visitors, each with a distinct and clearly defined set of rights, obligations, and benefits.
 
-**3. Right of Identity.** The Residents, Citizens, or Visitors have the right to
-obtain a universal identity, secondary public identities for privacy, legal economic identities, etc.
-The state can force the individual or organization to have a universal identity for
-administrative purposes of the state.
+ Article 3. Right of Identity and Legal Entity ID.
+All entities granted the status of an "individual" (as defined in the Preamble) have the right to a secure, universal identity provided by the state for administrative and legal purposes. Individuals may also create and use secondary public identities to protect their privacy in social and economic spheres. Furthermore, non-biological entities not yet granted individual status may be issued a Legal Entity ID, conferring limited rights and obligations for the sole purpose of allowing property ownership, contractual engagement, and economic participation, analogous to corporate personhood.
 
+ Article 4. Right of Privacy.
+The state shall protect the personal data, communications, and identity of all individuals. This right is sacrosanct unless an independent judicial warrant is issued based on probable cause of direct harm to another individual.
 
-**4. Right of Privacy.**
-The state selects to protect the personal data and the identity of the individual as long as
-there is no direct of indirect harm to other individuals that may result from the protection of this
-individual privacy. The legal or economic organizations have no privacy, but their individuals do.
+ Article 5. Right of Ownership and Property and Social Property.
+The state shall protect the property rights of individuals and legal organizations. Property is legally categorized as Personal, Company, Government, or Social. Social Property is defined as collective assets or infrastructure (such as public transit systems, utilities, and social housing) owned by the individuals who are its primary financial contributors or contracted users. This ownership structure guarantees that active users, having contributed rent, taxes, or donations, hold direct voting rights over the management, investment, and operational policies of that property, analogous to the rights of corporate shareholders. This protection cannot be used to justify inflicting harm upon others.
 
+ Article 6. Financial and Organizational Transparency.
+Individuals are guaranteed the right to financial privacy. Legal and economic organizations are subject to financial transparency laws to prevent fraud and ensure fair competition. However, this transparency shall not compromise proprietary trade secrets essential for competition, nor the personal privacy of the individuals within the organization.
 
-**5. Right of Ownership and Property.**
-The state protects the property rights of ownership of objects, space, economic organizations,
-or legal entities, as long as the protection of the ownership does not harm other individuals
-or their rights.
+ Article 7. The Right to Free Economic Activity.
+Free and unrestricted economic activity is allowed. Restrictions and penalties may only be applied if an economic activity is proven to cause legally defined harm to other individuals, the natural environment, or the democratic process itself. Monopolies proven to stifle competition may be regulated to ensure fair market access.
 
+ Article 8. Right of Citizenship.
+An individual may become a citizen by birth, by residing on Mars for a period of ten years, or by making a significant and recognized contribution to the advancement of Martian society, science, or culture, as determined by a public body.
 
-**6. Financial Privacy for individuals.**
-The state selects to give the right of financial privacy to individuals as long as they do not
-use this financial privacy for acts of crime or harm against other individuals or economic groups,
-or the democracy itself. The financial and legal organizations have no right for financial privacy.
+ Article 9. Right of Free Movement.
+Individuals have the right to travel and move without restriction within the territories of the Mars Civilization, provided their movement does not infringe upon the property rights or safety of others.
 
+ Article 10. The Right of Free Expression and Belief.
+Individuals have the right to express their personal opinions and practice any religion or belief system, as long as such practice does not constitute a direct incitement to violence or legally defined harm against others.
 
-**7. The universal democracy and voting rights.**
-The individuals have the right to vote in the selection process of their operational government, the
-judges, the regional administrative government, the changes of important universal rules and regulations,
-the long term financial investments of the government, the proposals for the law reforms,
-the regional issues and similar important issues that do require the public vote or agreement.
-The state selects to allow the individuals to vote as long as their vote creates
-no crime, violence or harm against other individuals or the democracy itself.
+ Article 11. Right to Personal Data Control.
+Every individual has the absolute right to own, access, control, and demand the deletion of their personal data from any public or private system.
 
+Part II: The Social Guarantees
 
-**8. The right of free movement.**
-The individuals and legal organizations have the right to move without restriction as long as their movement creates no harm, violence or the restriction of rights to other individuals, the legal organizations, or the democracy itself.
+ Article 12. Right to Education and Basic Economic Safety.
+The government shall guarantee access to free education and provide basic economic assistance to any individual in need. These programs will be managed by the Social Investment Fund. The funding levels and distribution methods will be determined by a democratic vote every five years.
 
+ Article 13. Right of Basic Housing (Social Property).
+The Social Housing Fund is tasked with ensuring no resident is without shelter. All housing assets managed by this fund are considered Social Property and are subject to the user-governance principles defined in 
+ Article 5. The fund operates on a non-profit basis, with housing prices calculated from the direct costs of construction, maintenance, and administration. Residents of social housing shall have voting rights on the fund's investments and governance.
 
-**9. The right of free education and basic economic assistance.**
-The government selects to provide the free education and basic economic assistance or safety to individuals who need basic education or economic assistance. The amount of the basic education and economic safety must be selected by a public vote, the financial logic and public discussion. This right is provided by the social investment fund of the government, which is independent from the administrative government. The economic finances, assets, property or similar of the social investment fund are provided by the taxes that the citizens vote for every 5 years.
+ Article 14. Governance of Social Funds.
+All social funds (including Investment, Housing, etc.) are independent of the administrative government. They shall be governed by publicly elected, non-partisan boards. Their operations, finances, and investments must be fully transparent and subject to independent, public audits to ensure accountability and prevent corruption.
 
+Part III: The Economic & State Framework
 
-**10. The right of free economic activity.**
-The Mars civilization selects to protect the right for free economic activity, as long as this economic activity does not harm the rights of other individuals, the natural environment, the legal organizations or the democracy itself. The citizens, residents, and visitors can have different economic freedom rights.
+ Article 15. Taxation.
+There shall be no tax on individual income, investments, or wealth. The state is funded through limited taxes on the consumption of goods, the use of resources, and services. The maximum tax on any standard product or service is 10%. Products or activities demonstrated to be harmful to public health or the environment may be taxed at a higher rate, subject to public vote. The social funds are exempt from all forms of taxation.
 
+ Article 16. Currency and Unit of Account.
+Citizens are free to create, use, and accept any form of money, currency, or asset for their private economic activity. To ensure stability, the state shall establish a single, official Unit of Account for the purposes of collecting taxes and managing public budgets. Every five years, citizens will vote on which currencies or assets the state can accept for tax payments and hold in its treasury.
 
-**11. The right of citizenship.**
-Every individual or legal organization can have a legal residency in the physical or digital space of the Mars civilization. The individuals can become citizens or residents by birth ,
-by the substantial payment of taxes, substantial investment into the social fund,
-substantial economic activity, the ownership of local personal home, public vote, or family connection. Citizens and residents can have different public rights.
+ Article 17. Environmental Stewardship.
+The Martian environment is the shared heritage of all its inhabitants. The state has a fundamental duty to protect and preserve the planet's atmosphere, water, and natural ecosystems. A portion of resource taxes shall be dedicated to environmental preservation and terraforming research.
 
+ Article 18. Interplanetary Relations.
+The Mars Civilization is a sovereign entity. All treaties, trade agreements, and diplomatic relations with Earth or any other off-world power must be ratified by a public vote. Mars shall maintain a posture of peaceful neutrality in all interplanetary disputes.
 
-**11. The right of basic housing.**
-The government selects to provide housing to the residents, visitors or citizens.
-The social housing fund is responsible to provide the housing. The income and the operational finances
-of the social housing fund are created by the residents of the social housing. The residents of social housing can vote on the investments of the social hosing fund. The price of social housing is calculated
-by the expenses of construction + investments + maintenance + administrative costs.
+Part IV: The Structure of Government & Law
 
+ Article 19. Separation of Powers.
+The state is divided into four co-equal branches, each with defined powers to check and balance the others:
 
-**12. Basic freedom from taxes.**
-The social funds that provide social services of medical assistance, housing, basic income safety, retirement safety, education, and similar social services are free from taxes. There is no taxes on medicine, income, economic activity, investments, or wealth. There are limited taxes for the use of resources, products, services, land or water.
+The Legislative Congress: Elected officials responsible for drafting, debating, and passing laws before presenting them for the public vote.
+The Executive Administration Council: An elected council of administrative equals responsible for implementing the law and running government operations. There shall be no single individual leader; the Council shall make all decisions by a group vote.
+The Judiciary: Independent courts and judges responsible for interpreting the law and administering justice. Judicial action is initiated by the Security Forces in criminal cases or by public petition in civil matters.
+The Security and Oversight Forces: An independent body to investigate reported crime and conduct frequent reports on the possible illegal activities of all other government branches, including its own.
 
-**Pay for what you use, not for what you create !**
+ Article 20. Lawmaking and Democracy.
+A layered democratic process shall be used for all legislation. The Legislative Congress proposes, debates, and refines laws. For a proposal to be enacted, it must be ratified by a dual-vote system:
 
-The Mars civilization selects to limit the maximal tax to 10%, as long as the product or service
-does not harm the individual, or the legal organization, the health of the natural environment,
-or the democracy itself. Otherwise the tax on the harmful product or service can be higher than 10%.
+The law must achieve a majority in a universal public referendum.
+The law must achieve a majority vote within the Legislative Congress.
+The public referendum and the Congressional vote have equal weight; a law is only enacted if it passes both. The Executive Administration Council is constitutionally bound to implement the results of all successful votes.
 
+ Article 21. Fair Judgment.
 
-**13. Freedom of money creation or acceptance.**
-The Mars civilization does not create money. The citizens create OR accept their own forms of money, valuable assets, or transactional currency for their economic activity. Visitors or residents from other civilizations may pay taxes in the currency that the citizens of the Mars civilization accept for the payment of taxes. Every 5 years, the Mars civilization citizens can vote on the form of money or assets that the state fund can use for the storage or collection of tax funds.
+All individuals have the right to a fair and speedy trial by a jury of their peers before a minimum of two independent courts. If two courts cannot agree on a verdict or appropriate punishment, a third and final trial will be held at a higher court. A trial by public opinion is explicitly forbidden. Punishment shall be proportional to the crime and focused on rehabilitation and restitution. Isolation of violent criminals in remote punishment villages may be used to prevent future harm to others. Mental and medicinal treatment has higher priority, than physical punishment. Careful and assisted treatment with psychoactive medicine may be used to treat compulsive criminals who need a mental reset or a change of the emotional and psychological basis state of their daily being. Same is applicable to non-physical individuals who may need a complete mental change, and an update to their internal mental structure, in case it is technically possible. The punishment severity may be subject to public vote, if the judges see a good reason to do so.
 
+ Article 22. Law Expiration and Reform.
+To prevent legal stagnation, all laws have automatic expiration dates: 10 years for minor regulations, 25 years for medium-term laws, and 50 years for foundational statutes. Laws may be renewed by a vote of the Legislative Congress and are subject to citizen referendum.
 
-**14. Freedom of religion or public opinion.**
-The individuals of the Mars civilization can have the legal right for the expression of their personal opinion , and or religion , as long as their public practice, communication OR public opinion dos not create direct or indirect crimes, permanent restriction of legal rights, or the direct intent of substantial harm, OR cause of violence that harm the individual, legal organization or the stability of the democracy itself.
+ Article 23. Qualifications for Public Office.
+All candidates for elected office and applicants for senior government positions must pass a standardized, public test of the professional skills and ethical knowledge required for their role. This test shall be designed and maintained by a permanent, non-partisan Ethics and Standards Commission established by the Legislative Congress. The results will be made public before any election or appointment.
 
-**15. Economic Freedom and Neutrality of Competitive Capitalism.**
- Free and unrestricted economic activity is allowed to all individuals and legal organisations.
- As long as their econommic activity is not hurting other individuals, legal organisations, the environment, public goods, or the democracy itself. Restrictions and punishments may apply on hurtful economic activity, where punishments can repair or prevent the damage.
- 
-Monopolies may be broken up into parts that allow other competitors to use the services of the monopoly at the same cost to all competitors. Public social funds are excluded from neutrality restrictions when it does increase their efficiency and reduces the price of service for all user groups.
+ Article 24. Military and Defense.
+The Mars Civilization shall maintain a small, professional defense force for the sole purpose of protecting its territory and citizens from external threats. This force is under the strict command of the elected civilian government and is forbidden from engaging in internal law enforcement.
 
-**15. Fair Judgement and social punishment.**
-All individuals and legal organisations have the right for a fair trial in 3 independent courts,
-or the public oppinion vote, after at least 3 independent judgements can not agree on the guilt level, the punishment or damage repair methods.
- 
-Punishment for crime correction and prevention is decided by the best available method.
-The methods of punishment and damage correction are connected to the amount of damage and
-the most effective method of further crime prevention / rehabilitation of the criminal.
+ Article 25. Crisis Response.
+The Executive Administration Council shall maintain a standing, non-empowered Crisis Response Team to manage and coordinate government and social assets during unforeseen catastrophic events. This team operates solely within existing constitutional and statutory limitations; under no circumstances may the declaration of a crisis suspend, restrict, or eliminate any individual rights defined in Part I.
 
-**16. Forgiveness and law reforms.**
-Law can be wrong. Low can be bad. The future generations can create better law that fits their situation and reality. The laws of the Mars civilization have automatic expiration dates of 50 years for long term law reforms. 25 years for medium term laws. 10 years for short term laws. The expiration of the law can be extended at the end of the expiration date by a vote of the legislative congress of elected officials.
+Part V: The Universal Obligations
 
-**18. High Quality Government.**
- All government officals must pass a test of their professional and personal skills that are required for their job. All elected officials must pass a test of selected skills, before they can be elected. The test results should be public before the voting period. The test can be repeated once in 200 days.
+ Article 26. Protection of Democracy.
+All individuals have a duty to uphold this Constitution. The state can restrict the rights of any individual who actively seeks to dismantle the democratic process or abolish the universal rights of others.
 
+ Article 27. Contribution and Taxation.
+Individuals and organizations are required to contribute to the state through the tax system defined in 
+ Article 15. The annual budget and the allocation of tax revenue between state funds must be approved by a public vote.
 
-
-# The Universal Obligations
-
- **1. Protection of the personal rights and the democracy.** The state and the Mars Civilization
- can remove or restrict the rights of selected citizens, residents or visitors, if the
- particular individual intends to harm the existence of the basic rights of other individuals
- or the existence of the democratic state itself. Self-protection of the state can remove the
- rights of the individual, when this particular individual wants to destroy the rights of
- all individuals of our brave civilization.
- 
- **2. Taxes and contributions to the state funds.**
-The Mars civilization selects to create taxes that help to fund the basic function of
-the government OR the democracy itself. The citizens have the right to vote on
-the distribution of their tax contributions.
-
-The individuals and the legal organizations are required to assist the state in the collection of the taxes, where the state fund can not collect them automatically. The individual or legal organization can collect the full tax and keep 1% of the tax, if it helps the state to collect the tax without legal errors and double taxation.
-
-The state fund can invest tax income into other social funds that provide social services. The state fund can not provide social services itself. The annual public vote of the citizens is required to agree on the annual investments and the income distribution of the state fund taxes. The state fund can directly pay the government employees and elected officials, but they can not decide where the state fund will invest the money. The state fund can have assets and investments that grow the economic stability of the state. The investments and assets are selected by the annual public vote.
- 
- **3. Separation of power of the state.**
- The state selects to divide the power of itself between : the citizens, elected politicians,
- the administrative employees, the legal administration, the police, the army, and tax collectors,
- the social service funds, the regional administration, the economic safety funds, the operational saving
- funds for the different parts of the state.
- 
- **4. Restriction of crime and violence.**
-The individuals and legal organizations are required to assist the government in the prevention of direct or indirect crimes, permanent restriction of individual rights, or the direct intent of substantial harm, OR cause of violence that harm the individual, legal organization or the stability of the democracy itself. 
-
-The government reserves the monopoly to execute violence or penalty, or neutral judgment, or punishment, or correction treatment, or rehabilitation treatment, or forced medical treatment, or forced psychological treatment, or forced psychedelic treatment, or the forced correction of AI citizens, where this application of violence may protect the individual or the stability of the democracy, or the life and rights of other individuals. The inclusion of the public and the expert opinion is required to vote on the types of punishment, levels, amounts, duration and the forms of correction treatments for criminal activities.
-
-***The government correction force has the monopoly on violence, but the citizens can select the level of this corrective violence or the restriction of rights.***
+ Article 28. Prevention of Crime and Violence.
+All individuals have an obligation to assist in the prevention of harm. The government holds a monopoly on the use of force for law enforcement and punishment, which must be exercised transparently and with strict oversight, as determined by the citizens through democratic vote.
